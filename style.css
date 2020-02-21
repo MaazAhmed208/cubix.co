@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(332deg, rgba(56,186,199,1) 0%, rgba(1,38,144,1) 100%);
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+section{
+    background-image: url(./AI-and-Machine-Learning-min.png);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    height: 800px;
+    padding-left: 200px;
+    padding-top: 200px;
+}
+header ul{
+    display: flex;
+    list-style: none;
+  
+    margin-top: 30px;
+}
+header ul li{
+    padding-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+header ul li button{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #03B4FF;
+    color: white;
+    border-style: none;
+}
+h1{
+    font-size: 60px;
+    color: white;
+
+}
+p{
+    font-size: 20px;
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+#red{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #F88379;
+    color: white;
+    border-style: none;
+}
